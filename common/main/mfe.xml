@@ -12,51 +12,51 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 	</identity>
 	<localeDisplayNames>
 		<languages>
-			<language type="ak">akan</language>
-			<language type="am">amarik</language>
-			<language type="ar">arab</language>
-			<language type="be">bieloris</language>
-			<language type="bg">bilgar</language>
-			<language type="bn">bengali</language>
-			<language type="cs">tchek</language>
-			<language type="de">alman</language>
-			<language type="el">grek</language>
-			<language type="en">angle</language>
-			<language type="es">espagnol</language>
-			<language type="fa">persan</language>
-			<language type="fr">franse</language>
-			<language type="ha">haoussa</language>
-			<language type="hi">hindi</language>
-			<language type="hu">hongrwa</language>
-			<language type="id">indonezien</language>
-			<language type="ig">igbo</language>
-			<language type="it">italien</language>
-			<language type="ja">zapone</language>
-			<language type="jv">zavane</language>
-			<language type="km">khmer, santral</language>
-			<language type="ko">koreen</language>
-			<language type="mfe">kreol morisien</language>
-			<language type="ms">male</language>
-			<language type="my">birman</language>
-			<language type="ne">nepale</language>
-			<language type="nl">olande</language>
-			<language type="pa">penjabi</language>
-			<language type="pl">polone</language>
-			<language type="pt">portige</language>
-			<language type="ro">roumin</language>
-			<language type="ru">ris</language>
-			<language type="rw">rwanda</language>
-			<language type="so">somali</language>
-			<language type="sv">swedwa</language>
-			<language type="ta">tamoul</language>
-			<language type="th">thaï</language>
-			<language type="tr">tirk</language>
-			<language type="uk">ikrenien</language>
-			<language type="ur">ourdou</language>
-			<language type="vi">vietnamien</language>
-			<language type="yo">yoruba</language>
-			<language type="zh">sinwa, mandarin</language>
-			<language type="zu">zoulou</language>
+			<language type="ak">Akan</language>
+			<language type="am">Amarik</language>
+			<language type="ar">Arab</language>
+			<language type="be">Bieloris</language>
+			<language type="bg">Bilgar</language>
+			<language type="bn">Bengali</language>
+			<language type="cs">Tchek</language>
+			<language type="de">Alman</language>
+			<language type="el">Grek</language>
+			<language type="en">Angle</language>
+			<language type="es">Espagnol</language>
+			<language type="fa">Persan</language>
+			<language type="fr">Franse</language>
+			<language type="ha">Haoussa</language>
+			<language type="hi">Hindi</language>
+			<language type="hu">Hongrwa</language>
+			<language type="id">Indonezien</language>
+			<language type="ig">Igbo</language>
+			<language type="it">Italien</language>
+			<language type="ja">Zapone</language>
+			<language type="jv">Zavane</language>
+			<language type="km">Khmer, santral</language>
+			<language type="ko">Koreen</language>
+			<language type="mfe">Kreol Mprisien</language>
+			<language type="ms">mMle</language>
+			<language type="my">Birman</language>
+			<language type="ne">Nepale</language>
+			<language type="nl">Olande</language>
+			<language type="pa">Penjabi</language>
+			<language type="pl">Polone</language>
+			<language type="pt">Portige</language>
+			<language type="ro">Roumin</language>
+			<language type="ru">Ris</language>
+			<language type="rw">Rwanda</language>
+			<language type="so">Somali</language>
+			<language type="sv">Swedwa</language>
+			<language type="ta">Tamoul</language>
+			<language type="th">Thaï</language>
+			<language type="tr">Tirk</language>
+			<language type="uk">Ikrenien</language>
+			<language type="ur">Ourdou</language>
+			<language type="vi">Vietnamien</language>
+			<language type="yo">Yoruba</language>
+			<language type="zh">Sinwa, Mandarin</language>
+			<language type="zu">Zoulou</language>
 		</languages>
 		<territories>
 			<territory type="AD">Andor</territory>
@@ -353,81 +353,81 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 				<months>
 					<monthContext type="format">
 						<monthWidth type="abbreviated">
-							<month type="1">zan</month>
-							<month type="2">fev</month>
-							<month type="3">mar</month>
-							<month type="4">avr</month>
-							<month type="5">me</month>
-							<month type="6">zin</month>
-							<month type="7">zil</month>
-							<month type="8">out</month>
-							<month type="9">sep</month>
-							<month type="10">okt</month>
-							<month type="11">nov</month>
-							<month type="12">des</month>
+							<month type="1">Zan</month>
+							<month type="2">Fev</month>
+							<month type="3">Mar</month>
+							<month type="4">Avr</month>
+							<month type="5">Me</month>
+							<month type="6">Zin</month>
+							<month type="7">Zil</month>
+							<month type="8">Out</month>
+							<month type="9">Sep</month>
+							<month type="10">Okt</month>
+							<month type="11">Nov</month>
+							<month type="12">Des</month>
 						</monthWidth>
 						<monthWidth type="wide">
-							<month type="1">zanvie</month>
-							<month type="2">fevriye</month>
-							<month type="3">mars</month>
-							<month type="4">avril</month>
-							<month type="5">me</month>
-							<month type="6">zin</month>
-							<month type="7">zilye</month>
-							<month type="8">out</month>
-							<month type="9">septam</month>
-							<month type="10">oktob</month>
-							<month type="11">novam</month>
-							<month type="12">desam</month>
+							<month type="1">Zanvie</month>
+							<month type="2">Fevriye</month>
+							<month type="3">Mars</month>
+							<month type="4">Avril</month>
+							<month type="5">Me</month>
+							<month type="6">Zin</month>
+							<month type="7">ZilIe</month>
+							<month type="8">Out</month>
+							<month type="9">Septam</month>
+							<month type="10">Oktob</month>
+							<month type="11">Novam</month>
+							<month type="12">Desam</month>
 						</monthWidth>
 					</monthContext>
 					<monthContext type="stand-alone">
 						<monthWidth type="narrow">
-							<month type="1">z</month>
-							<month type="2">f</month>
-							<month type="3">m</month>
-							<month type="4">a</month>
-							<month type="5">m</month>
-							<month type="6">z</month>
-							<month type="7">z</month>
-							<month type="8">o</month>
-							<month type="9">s</month>
-							<month type="10">o</month>
-							<month type="11">n</month>
-							<month type="12">d</month>
+							<month type="1">Z</month>
+							<month type="2">F</month>
+							<month type="3">M</month>
+							<month type="4">A</month>
+							<month type="5">M</month>
+							<month type="6">Z</month>
+							<month type="7">Z</month>
+							<month type="8">O</month>
+							<month type="9">S</month>
+							<month type="10">O</month>
+							<month type="11">N</month>
+							<month type="12">D</month>
 						</monthWidth>
 					</monthContext>
 				</months>
 				<days>
 					<dayContext type="format">
 						<dayWidth type="abbreviated">
-							<day type="sun">dim</day>
-							<day type="mon">lin</day>
-							<day type="tue">mar</day>
-							<day type="wed">mer</day>
-							<day type="thu">ze</day>
-							<day type="fri">van</day>
-							<day type="sat">sam</day>
+							<day type="sun">Dim</day>
+							<day type="mon">Lin</day>
+							<day type="tue">Mar</day>
+							<day type="wed">Mer</day>
+							<day type="thu">Ze</day>
+							<day type="fri">Van</day>
+							<day type="sat">Sam</day>
 						</dayWidth>
 						<dayWidth type="wide">
-							<day type="sun">dimans</day>
-							<day type="mon">lindi</day>
-							<day type="tue">mardi</day>
-							<day type="wed">merkredi</day>
-							<day type="thu">zedi</day>
-							<day type="fri">vandredi</day>
-							<day type="sat">samdi</day>
+							<day type="sun">Dimans</day>
+							<day type="mon">Lindi</day>
+							<day type="tue">Mardi</day>
+							<day type="wed">Merkredi</day>
+							<day type="thu">Zedi</day>
+							<day type="fri">Vandredi</day>
+							<day type="sat">Samdi</day>
 						</dayWidth>
 					</dayContext>
 					<dayContext type="stand-alone">
 						<dayWidth type="narrow">
-							<day type="sun">d</day>
-							<day type="mon">l</day>
-							<day type="tue">m</day>
-							<day type="wed">m</day>
-							<day type="thu">z</day>
-							<day type="fri">v</day>
-							<day type="sat">s</day>
+							<day type="sun">D</day>
+							<day type="mon">L</day>
+							<day type="tue">M</day>
+							<day type="wed">M</day>
+							<day type="thu">Z</day>
+							<day type="fri">V</day>
+							<day type="sat">S</day>
 						</dayWidth>
 					</dayContext>
 				</days>
@@ -614,49 +614,49 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 				<displayName>dirham Emira arab ini</displayName>
 			</currency>
 			<currency type="AOA">
-				<displayName>kwanza angole</displayName>
+				<displayName>kwanza Angole</displayName>
 			</currency>
 			<currency type="AUD">
-				<displayName>dolar ostralien</displayName>
+				<displayName>dolar Ostralien</displayName>
 			</currency>
 			<currency type="BHD">
-				<displayName>dinar bahreïn</displayName>
+				<displayName>dinar Bahreïn</displayName>
 			</currency>
 			<currency type="BIF">
-				<displayName>fran burunde</displayName>
+				<displayName>fran Burunde</displayName>
 			</currency>
 			<currency type="BWP">
-				<displayName>pula ya botswane</displayName>
+				<displayName>pula ya Botswane</displayName>
 			</currency>
 			<currency type="CAD">
-				<displayName>dolar kanadien</displayName>
+				<displayName>dolar Kanadien</displayName>
 			</currency>
 			<currency type="CDF">
-				<displayName>fran kongole</displayName>
+				<displayName>fran Kongole</displayName>
 			</currency>
 			<currency type="CHF">
-				<displayName>fran swis</displayName>
+				<displayName>fran Swis</displayName>
 			</currency>
 			<currency type="CNY">
-				<displayName>yuan renminbi sinwa</displayName>
+				<displayName>yuan renminbi Sinwa</displayName>
 			</currency>
 			<currency type="CVE">
-				<displayName>eskudo kapverdien</displayName>
+				<displayName>eskudo Kapverdien</displayName>
 			</currency>
 			<currency type="DJF">
-				<displayName>fran djiboutien</displayName>
+				<displayName>fran Djiboutien</displayName>
 			</currency>
 			<currency type="DZD">
-				<displayName>dinar alzerien</displayName>
+				<displayName>dinar Alzerien</displayName>
 			</currency>
 			<currency type="EGP">
-				<displayName>liv ezipsien</displayName>
+				<displayName>liv Ezipsien</displayName>
 			</currency>
 			<currency type="ERN">
-				<displayName>nafka erythreen</displayName>
+				<displayName>nafka Erythreen</displayName>
 			</currency>
 			<currency type="ETB">
-				<displayName>birr etiopien</displayName>
+				<displayName>birr Etiopien</displayName>
 			</currency>
 			<currency type="EUR">
 				<displayName>euro</displayName>
@@ -665,56 +665,56 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 				<displayName>liv sterlin</displayName>
 			</currency>
 			<currency type="GHC">
-				<displayName>sedi ganeen</displayName>
+				<displayName>sedi Ganeen</displayName>
 			</currency>
 			<currency type="GMD">
-				<displayName>dalasi gambien</displayName>
+				<displayName>dalasi Gambien</displayName>
 			</currency>
 			<currency type="GNS">
-				<displayName>fran gineen</displayName>
+				<displayName>fran Gineen</displayName>
 			</currency>
 			<currency type="INR">
 				<displayName>roupi</displayName>
 			</currency>
 			<currency type="JPY">
-				<displayName>yen zapone</displayName>
+				<displayName>yen Zapone</displayName>
 			</currency>
 			<currency type="KES">
-				<displayName>shiling kenyan</displayName>
+				<displayName>shiling Kenyan</displayName>
 			</currency>
 			<currency type="KMF">
-				<displayName>fran komorien</displayName>
+				<displayName>fran Komorien</displayName>
 			</currency>
 			<currency type="LRD">
-				<displayName>dolar liberien</displayName>
+				<displayName>dolar Liberien</displayName>
 			</currency>
 			<currency type="LSL">
-				<displayName>loti lezoto</displayName>
+				<displayName>loti Lezoto</displayName>
 			</currency>
 			<currency type="LYD">
-				<displayName>dinar libien</displayName>
+				<displayName>dinar Libien</displayName>
 			</currency>
 			<currency type="MAD">
-				<displayName>dirham marokin</displayName>
+				<displayName>dirham Marokin</displayName>
 			</currency>
 			<currency type="MGA">
-				<displayName>fran malgas</displayName>
+				<displayName>fran Malgas</displayName>
 			</currency>
 			<currency type="MRO">
-				<displayName>ouguiya moritanien (1973–2017)</displayName>
+				<displayName>ouguiya Moritanien (1973–2017)</displayName>
 			</currency>
 			<currency type="MRU">
-				<displayName>ouguiya moritanien</displayName>
+				<displayName>ouguiya Moritanien</displayName>
 			</currency>
 			<currency type="MUR">
-				<displayName>roupi morisien</displayName>
+				<displayName>roupi Morisien</displayName>
 				<symbol>Rs</symbol>
 			</currency>
 			<currency type="MWK">
-				<displayName>kwacha malawit</displayName>
+				<displayName>kwacha Malawit</displayName>
 			</currency>
 			<currency type="MZM">
-				<displayName>metikal mozanbikin</displayName>
+				<displayName>metikal Mozanbikin</displayName>
 			</currency>
 			<currency type="NAD">
 				<displayName>dolar namibien</displayName>
