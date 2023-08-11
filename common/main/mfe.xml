@@ -550,40 +550,40 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		</calendars>
 		<fields>
 			<field type="era">
-				<displayName>Lepok</displayName>
+				<displayName>lepok</displayName>
 			</field>
 			<field type="year">
-				<displayName>Lane</displayName>
+				<displayName>lane</displayName>
 			</field>
 			<field type="month">
-				<displayName>Mwa</displayName>
+				<displayName>mwa</displayName>
 			</field>
 			<field type="week">
-				<displayName>Semenn</displayName>
+				<displayName>semenn</displayName>
 			</field>
 			<field type="day">
-				<displayName>Zour</displayName>
-				<relative type="-1">Yer</relative>
-				<relative type="0">Zordi</relative>
-				<relative type="1">Demin</relative>
+				<displayName>zour</displayName>
+				<relative type="-1">yer</relative>
+				<relative type="0">zordi</relative>
+				<relative type="1">demin</relative>
 			</field>
 			<field type="weekday">
-				<displayName>Zour lasemenn</displayName>
+				<displayName>zour lasemenn</displayName>
 			</field>
 			<field type="dayperiod">
-				<displayName>Peryod dan lazourne</displayName>
+				<displayName>peryod dan lazourne</displayName>
 			</field>
 			<field type="hour">
-				<displayName>Ler</displayName>
+				<displayName>ler</displayName>
 			</field>
 			<field type="minute">
-				<displayName>Minit</displayName>
+				<displayName>minit</displayName>
 			</field>
 			<field type="second">
-				<displayName>Segonn</displayName>
+				<displayName>segonn</displayName>
 			</field>
 			<field type="zone">
-				<displayName>Peryod letan</displayName>
+				<displayName>zonn orer</displayName>
 			</field>
 		</fields>
 	</dates>
