@@ -611,7 +611,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		</currencyFormats>
 		<currencies>
 			<currency type="AED">
-				<displayName>dirham Emira arab ini</displayName>
+				<displayName>dirham Emira Arab Ini</displayName>
 			</currency>
 			<currency type="AOA">
 				<displayName>kwanza Angole</displayName>
@@ -674,7 +674,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 				<displayName>fran Gineen</displayName>
 			</currency>
 			<currency type="INR">
-				<displayName>roupi</displayName>
+				<displayName>roupi Lind</displayName>
 			</currency>
 			<currency type="JPY">
 				<displayName>yen Zapone</displayName>
@@ -703,9 +703,6 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<currency type="MRO">
 				<displayName>ouguiya Moritanien (1973–2017)</displayName>
 			</currency>
-			<currency type="MRU">
-				<displayName>ouguiya Moritanien</displayName>
-			</currency>
 			<currency type="MUR">
 				<displayName>roupi Morisien</displayName>
 				<symbol>Rs</symbol>
@@ -717,25 +714,25 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 				<displayName>metikal Mozanbikin</displayName>
 			</currency>
 			<currency type="NAD">
-				<displayName>dolar namibien</displayName>
+				<displayName>dolar Namibien</displayName>
 			</currency>
 			<currency type="NGN">
-				<displayName>naira nizerian</displayName>
+				<displayName>naira Nizerian</displayName>
 			</currency>
 			<currency type="RWF">
-				<displayName>fran rwande</displayName>
+				<displayName>fran Rwande</displayName>
 			</currency>
 			<currency type="SAR">
-				<displayName>rial saoudien</displayName>
+				<displayName>rial Saoudien</displayName>
 			</currency>
 			<currency type="SCR">
-				<displayName>roupi seselwa</displayName>
+				<displayName>roupi Seselwa</displayName>
 			</currency>
 			<currency type="SDG">
-				<displayName>dinar soudane</displayName>
+				<displayName>dinar Soudane</displayName>
 			</currency>
 			<currency type="SDP">
-				<displayName>liv soudane</displayName>
+				<displayName>liv Soudane</displayName>
 			</currency>
 			<currency type="SHP">
 				<displayName>liv Sainte-Hélène</displayName>
@@ -744,28 +741,28 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 				<displayName>leonn Sierra-Leone</displayName>
 			</currency>
 			<currency type="SOS">
-				<displayName>shilingi somalien</displayName>
+				<displayName>shilingi Somalien</displayName>
 			</currency>
 			<currency type="STD">
-				<displayName>dobra santomeen (1977–2017)</displayName>
+				<displayName>dobra Santomeen (1977–2017)</displayName>
 			</currency>
 			<currency type="STN">
-				<displayName>dobra santomeen</displayName>
+				<displayName>dobra Santomeen</displayName>
 			</currency>
 			<currency type="SZL">
-				<displayName>lilangeni swazi</displayName>
+				<displayName>lilangeni Swazi</displayName>
 			</currency>
 			<currency type="TND">
-				<displayName>dinar tinizien</displayName>
+				<displayName>dinar Tinizien</displayName>
 			</currency>
 			<currency type="TZS">
-				<displayName>shiling tanzanien</displayName>
+				<displayName>shiling Tanzanien</displayName>
 			</currency>
 			<currency type="UGX">
-				<displayName>shiling ougande</displayName>
+				<displayName>shiling Ougande</displayName>
 			</currency>
 			<currency type="USD">
-				<displayName>dolar amerikin</displayName>
+				<displayName>dolar Amerikin</displayName>
 			</currency>
 			<currency type="XAF">
 				<displayName>fran CFA (BEAC)</displayName>
@@ -774,16 +771,16 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 				<displayName>fran CFA (BCEAO)</displayName>
 			</currency>
 			<currency type="ZAR">
-				<displayName>rand sid-afrikin</displayName>
+				<displayName>rand Sid-Afrikin</displayName>
 			</currency>
 			<currency type="ZMK">
-				<displayName>kwacha zanbien (1968–2012)</displayName>
+				<displayName>kwacha Zanbien (1968–2012)</displayName>
 			</currency>
 			<currency type="ZMW">
-				<displayName>kwacha zanbien</displayName>
+				<displayName>kwacha Zanbien</displayName>
 			</currency>
 			<currency type="ZWD">
-				<displayName>dolar zimbawe</displayName>
+				<displayName>dolar Zimbawe</displayName>
 			</currency>
 		</currencies>
 	</numbers>
